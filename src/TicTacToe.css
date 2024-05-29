@@ -1,0 +1,13 @@
+canvas {
+    border: 2px solid #8A8B5D;
+    display: block;
+    margin: 20px auto;
+    cursor: pointer;
+}
+
+.winner {
+    text-align: center;
+    font-size: 22px;
+    color: brown;
+    margin-top: 20px;
+}
